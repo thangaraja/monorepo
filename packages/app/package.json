@@ -1,0 +1,13 @@
+{
+  "name": "sample-express-server",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "@mycompany/logger": "1.0.0"
+  }
+}
